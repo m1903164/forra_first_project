@@ -1,0 +1,55 @@
+.container {
+    margin: 0 auto;
+    width: 1160px;
+}
+
+.header__container {
+    height: 50px;
+    display: flex;
+    margin-bottom: 90px;
+}
+
+.header__img {
+    margin-right: 155px;
+}
+
+.header__list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-right: 166px;
+}
+
+.list__item {
+    margin-right: 66px;
+}
+
+.list__item:last-child {
+    margin-right: 0px;
+}
+
+.header__link {
+    margin-top: 16px;
+    color: red;
+}
+
+.main__title {
+    width: 600px;
+}
+
+.main__text {
+    width: 541px;
+    color: #545454;
+    margin-bottom: 46px;
+}
+
+.main__button {
+    width: 358px;
+    height: 47px;
+    background: #E40000;
+    color: #FFFFFF;
+    border-radius: 7px;
+    border-color: #E40000;
+
+    margin-top: 0px;
+}
